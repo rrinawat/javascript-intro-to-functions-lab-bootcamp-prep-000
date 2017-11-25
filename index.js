@@ -17,13 +17,13 @@ function logWhisper(string) {
 function sayHiToGrandma(string){
   switch (string){
     case "hello":
-      return " I can't hear you!"
+      return "I can't hear you!"
       break;
     case "HELLO":
-      return "Yes INDEED!"
+      return "YES INDEED!"
       break;
     case "I love you, Grandma.":
-      return "I love you, too"
+      return "I love you, too."
       break;
   }
     }
